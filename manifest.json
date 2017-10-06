@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Fire Encode",
+  "version": "1.0",
+
+  "applications": {
+    "gecko": {
+      "id": ""
+        }
+    },
+
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+"permissions": ["notifications", "menus"]
+
+}
